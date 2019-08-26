@@ -1,0 +1,149 @@
+h1 {
+    margin: 0;
+    padding: 20px 0;
+    text-shadow: 3px 3px 1px black;
+    font-size: 75px;
+    font-family: 'Iceland', cursive;
+    color: rgb(211, 201, 66);
+    width: 620px;
+  }
+
+h2 {
+    margin-bottom: -100px;
+    margin-left: 33px;
+    padding: 20px 0;
+    text-shadow: 3px 3px 1px black;
+    font-size: 75px;
+    font-family: 'Iceland', cursive;
+    color: rgb(114, 167, 202);
+    width: 620px;
+}
+  
+p {
+    text-align: center;
+    text-decoration: underline;
+    margin-left: 30px;
+    padding: 20px 0;
+    text-shadow: 0px 3px 5px black;
+    font-size: 25px;
+    font-family: 'Press Start 2P', cursive;
+    color: rgb(114, 167, 202);
+    width: 555px;
+}
+
+#larger_images {
+    height: 440px;
+    width: 620px;
+    filter: drop_shadow(4px 4px 9px black);
+    border: 5px solid black;
+}
+
+#medium_images {
+    height: 430px;
+    width: 620px;
+    filter: drop_shadow(4px 4px 9px black);
+    border: 5px solid black;
+}
+
+#smaller_images {
+    height: 410px;
+    width: 550px;
+    border: 5px solid black;
+}
+
+#smallest_images {
+    height: 340px;
+    width: 320px;
+    margin-left: 160px;
+    border: 5px solid black;
+}
+
+#black {
+    color: black;
+}
+
+.equipment-list {
+    margin: 0;
+    padding: 8px 0px 13px 0px;
+    text-shadow: 3px 3px 1px black;
+    font-size: 60px;
+    font-family: 'Iceland', cursive;
+    color: rgb(211, 201, 66);
+    width: 620px;
+    margin-left: 10px;
+    background-color: rgb(114, 167, 202);
+    margin-top: 0px;
+    text-align: center;
+    width: 530px;
+    border: 5px solid black;
+}
+
+.header {
+    background-color: rgb(114, 167, 202);
+    color: rgb(211, 201, 66);
+    margin-top: 0px;
+    text-align: center;
+    padding: 20px 0;
+    width: 620px;
+    border: 5px solid black;
+
+}
+
+.link {
+    color: rgb(114, 167, 202);
+    margin-top: 0px;
+    text-align: center;
+    padding: 3px 0;
+}
+
+.banner{
+    margin-top: -150px;
+    text-align: center;
+    margin-left: -30px;
+    padding: 100px 0;
+}
+
+.navbar {
+    background-color: rgb(114, 167, 202);
+    position: sticky;
+    top: 0;
+    margin: 10px 0px 0px 3px;
+    width: 100%;
+    text-decoration: none;
+    border: 2px solid black
+}
+
+.navbar li {
+    display: inline-block;
+    padding: 10px 16px;
+    font-size: 20px;
+    text-shadow: 2px 2px 2px black;
+    font-family: 'Iceland', cursive;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: rgb(211, 201, 66);
+
+}
+
+a:hover {
+    font-family:'Iceland', cursive;
+    margin-top: 0px;
+    text-align: center;
+    padding: 3px 0;
+    border: 5px solid black;
+    
+}
+
+html {
+    background-color: rgb(114, 167, 202);
+}
+
+body {
+    width: 620px;
+    margin: 0 auto;
+    background-color: rgb(211, 201, 66);
+    padding: 0 100px 100px 100px;
+    border: 5px solid black;
+}
